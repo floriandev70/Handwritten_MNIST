@@ -1,6 +1,13 @@
 # Handwritten_MNIST
 TensorFlow model to train and recognize handwritten digits.
 
+Code based on https://www.tensorflow.org/tutorials/quickstart/beginner
+
+**What an input image of a handwritten digit looks like**
+
+<img width="331" alt="image" src="https://github.com/user-attachments/assets/52c0d723-537b-4376-bd7d-564273af8412">
+
+Copyright (c) by http://yann.lecun.com/exdb/mnist/
 
 **MNIST data (train x/y and test x/y):**
 
